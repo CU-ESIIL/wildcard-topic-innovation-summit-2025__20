@@ -4,7 +4,7 @@ All large files live in our CyVerse community folder so we keep the GitHub repos
 
 ## Community storage
 - **CyVerse shared path:** `i:/iplant/home/shared/esiil/Innovation_summit/Group_20/`
-- **Browse in a web browser:** [CyVerse Data Store viewer](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_20/)
+- **Browse in a web browser:** [CyVerse Data Store viewer](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_20?type=folder&resourceId=0ec57af4-95a3-11f0-b0fb-90e2ba675364)
 - **Recommended subfolders:**
   - `intake/` – raw CSV exports from the idea intake form
   - `notes/` – facilitator Markdown notes and transcripts

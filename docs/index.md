@@ -11,7 +11,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 **One sentence on impact:** In three days we surface wildcard ideas from across the Innovation Summit and translate them into prototypes, visuals, and next-step pilots that decision makers can act on.
 
-**[Draft project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf) · [View shared code](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/tree/main/code) · [Data & access](data.md)**
+**[Draft project brief (PDF/A)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View shared code](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/code/prism_quicklook.py) · [Explore data](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/code/prism_quicklook.py)**
 
 > **About this site:** This is a public, in-progress record of Innovation Summit Team 20. Update anything here in your browser: open a file → pencil icon → Commit changes. The page is structured so we can talk through the project in under two minutes.
 
@@ -45,7 +45,7 @@ Summit days move fast; promising ideas disappear without a shared hub. Packaging
 
 ### Inspirations (papers, datasets, tools)
 - Publication: [Wild Cards in Climate Change Adaptation](https://library.wmo.int/idurl/4/51141)
-- Dataset portal: [Innovation Summit Group 20 community folder](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_20/)
+- Dataset portal: [Innovation Summit Group 20 community folder](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_20?type=folder&resourceId=0ec57af4-95a3-11f0-b0fb-90e2ba675364)
 - Tool/tech: [BERTopic for emergent theme detection](https://github.com/MaartenGr/BERTopic)
 
 ### Field notes / visuals
@@ -144,13 +144,13 @@ Summit days move fast; promising ideas disappear without a shared hub. Packaging
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
+  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/code/prism_quicklook.py"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_20/ideas/"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
+  <a href="https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/code/prism_quicklook.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
 </td>
 </tr>
 </table>
