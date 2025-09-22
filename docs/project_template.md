@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
-subtitle: "A friction-free guide for collaborative research sprints"
+title: "Wildcard Topic Innovation Summit 2025 Playbook"
+subtitle: "Team 20 guide for running a 3-day wildcard sprint"
 hero_image: assets/template/hero.svg
 team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
-repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+contact_slack: "#innovation-summit-team-20"
+contact_email: "innovation-team20@example.org"
+repo_owner: "CU-ESIIL"
+repo_name: "wildcard-topic-innovation-summit-2025__20"
 edit_path: "docs/project_template.md"
 ---
 

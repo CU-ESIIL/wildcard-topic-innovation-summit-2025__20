@@ -1,9 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Project Group OASIS"
-version: "1.0.0"
-doi: 10.5281/zenodo.11166898
-date-released: 2025-09-10
+title: "Wildcard Topic Innovation Summit 2025 Repository"
+abstract: |
+  Materials, code, and documentation produced by Innovation Summit Team 20
+  during the 2025 wildcard sprint. The project explores rapid prototyping
+  workflows, shared datasets, and communication assets that support
+  cross-team collaboration and knowledge exchange.
+version: "0.1.0"
+date-released: 2025-01-15
+repository-code: "https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20"
 authors:
-  - family-names: Tuff
-    given-names: Ty
+  - name: Wildcard Topic Innovation Summit Team 20
+contact:
+  - name: Innovation Summit Communications Lead
+    email: innovation-team20@example.org
+keywords:
+  - innovation summit
+  - sprint
+  - rapid prototyping
+  - collaboration

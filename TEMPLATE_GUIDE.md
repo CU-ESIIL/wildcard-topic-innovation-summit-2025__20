@@ -32,7 +32,7 @@ Ask Codex to open `mkdocs.yml` and update the following keys so the published si
 
 ### Search-and-replace the old name
 
-Run a repository-wide search for `Project_group_OASIS` and replace it with your new repo name. Pay attention to:
+Run a repository-wide search for `wildcard-topic-innovation-summit-2025__20` and replace it with your new repo name. Pay attention to:
 
 - Front-matter in the Markdown files inside `docs/` (for example, hero images or repo links).
 - Any sample links in documentation under `docs/orientation/`.
