@@ -1,4 +1,4 @@
-# Wildcard Topic Innovation Summit 2025
+# HeSapa EIA/EIS Study
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
@@ -25,28 +25,24 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Day 1 — Define & Explore
-*Focus: frame the wildcard opportunity, align on product, capture early signals.*
-
 ### Our product 📣
-- A “Wildcard Atlas” showcasing high-potential summit ideas, ranked by novelty and readiness, with prototype screenshots and follow-up owners.
+- A dashboard/interactive search tool to more easily comb through 2,400 Environmental Impact Statement/Assessment documents from the US Forest Service.
 
 ### Our question(s) 📣
-- How might we collect, tag, and cluster wildcard proposals generated during the summit in near real time?
-- Which ideas create the biggest leaps for climate adaptation if advanced quickly?
-- What story or artifact will motivate partners to keep co-developing after the event?
+- How can we create a tool for non-technical tribal decision-makers to access and understand meaningful information about extractive activities in the HeSapa through EIAs?
+
 
 ### Hypotheses / intentions
-- We think that combining rapid text clustering with facilitator notes will reveal cross-team themes nobody sees in the room.
-- We intend to test whether lightweight scoring (novelty × feasibility × impact) helps prioritize the most promising experiments.
-- We will know we’re onto something if teams start referencing the atlas during share-outs or requesting deeper dives.
+
 
 ### Why this matters (the “upshot”) 📣
-Summit days move fast; promising ideas disappear without a shared hub. Packaging wildcard concepts with clear owners and next steps keeps momentum going, informs funding conversations, and signals where infrastructure support is required.
+- HeSapa is sacred to multiple tribes
+- The information will be accessible to non-technical audiences
+- Supports corporate accountability & transparency; environmental justice; and treaty rights around extractive activities in the HeSapa
+
+
 
 ### Inspirations (papers, datasets, tools)
-- Publication: [Wild Cards in Climate Change Adaptation](https://library.wmo.int/idurl/4/51141)
-- Dataset portal: [Innovation Summit Group 20 community folder](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_20?type=folder&resourceId=0ec57af4-95a3-11f0-b0fb-90e2ba675364)
-- Tool/tech: [BERTopic for emergent theme detection](https://github.com/MaartenGr/BERTopic)
 
 ### Field notes / visuals
 ![Sticky-note clustering during kickoff](assets/day1_whiteboard.jpg)
