@@ -1,4 +1,4 @@
-# HeSapa EIA/EIS Study
+# He Sapa Makiyuta EA/EIS Study
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
