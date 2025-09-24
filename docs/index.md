@@ -26,7 +26,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ## Day 1 — Define & Explore
 ### Our product 📣
-- A dashboard/interactive search tool to more easily comb through 2,400 Environmental Impact Statement/Assessment documents from the US Forest Service.
+- A dashboard/interactive search tool to more easily comb through 2,400 Environmental Impact Statement/Assessment documents from the US Forest Service, US NRC, BLM, etc.
 
 ### Our question(s) 📣
 - How can we create a tool for non-technical tribal decision-makers to access and understand meaningful information about extractive activities in the HeSapa through EIAs?
@@ -57,24 +57,32 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 *Focus: ingest submissions, prototype clustering + scoring, ship a first visual.*
 
 ### Data sources we’re exploring 📣
-- **CyVerse form exports (CSV)** — structured responses from the summit intake form with text summaries, stage, and contact info.
+- Public documents (PDFs) such as Environmental Impact Statements and Assessments from agencies such as Forest Service, EPA, US NRC, BLM.
 
   ![First look at wildcard clustering output](assets/explore_data_plot.png)
 [Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/explore_data_plot.png)
   *Snapshot: BERTopic clusters highlighting recurring needs around monitoring, storytelling, and rapid response.*
 
-- **Facilitator note uploads (Markdown)** — qualitative summaries from each session (internal link in community folder).
-- **Lightning talk slides (PDF)** — quick cues for visuals to include in the atlas.
-
 ### Methods / technologies we’re testing 📣
-- Semantic embedding of idea descriptions with SentenceTransformers + BERTopic.
-- Lightweight scoring model that blends facilitator rankings with novelty heuristics.
-- Observable-style prototype for the “Wildcard Atlas” landing page (embedded via iframe screenshot for now).
+- Engaged with Lakota tribe to identify what matters most while parsing EIS/EA documents with the aim to document the schema in a simple table format to iteratively update:
+  **Example Fields:**
+    - Document title
+    - Agency names
+    - Company names (to ensure accountability)
+    - Geographical location (e.g., mention of states, cities, counties, reservations, or watersheds impacted)
+    - Byproducts from extractive activities (e.g., contaminants or residues such as chemicals, pollutants, radioactive elements)
+    - Mentions of treaty rights
+    - Impact on historical resources or cultural sites
+    - Impact on wildlife
+    - Impact on acquifer/groundwater, soil, air quality, plant life, and broader ecosystems
+- Use Python/R to extract relevant text from PDFs. For scanned PDFs, integrate OCR.
+- Retrieval and LLM workflow.
+- Provide a dashboard view for easy access.
 
 ### Challenges identified
-- Not all submissions include clear geographic or beneficiary info, making scoring harder.
-- Slides are graphics-heavy; extracting text for clustering requires extra preprocessing.
-- Coordinating permissions for idea owners before publishing summaries.
+- Missing information: Certain projects were waived from creating EIS/EA for categorical exclusion.
+- Writing a generalized code that can effectively parse through PDFs of various formats to capture necessary data.
+- Does the language used in the metadata schema reflect tribal community values?
 
 ### Visuals
 #### Static figure
