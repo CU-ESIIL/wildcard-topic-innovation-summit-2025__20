@@ -37,7 +37,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ### Field notes / visuals
 ![Sticky-note clustering during kickoff](assets/whiteboard_projects.jpg)
-*Caption: Storming on Day 2!.*
+
 
 ---
 
