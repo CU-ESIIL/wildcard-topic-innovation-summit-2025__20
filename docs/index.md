@@ -153,12 +153,10 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Team
-| Name | Role | Contact | GitHub |
-|------|------|---------|--------|
-| Avery Lee | Lead facilitator | avery.lee@example.org | [@avery-lee](https://github.com/avery-lee) |
-| Jordan Patel | Data & methods | jordan.patel@example.org | [@jpatel-data](https://github.com/jpatel-data) |
-| Sky Ramirez | Storytelling & comms | sky.ramirez@example.org | [@skyramirez](https://github.com/skyramirez) |
-| Morgan Blake | Partnerships liaison | morgan.blake@example.org | [@morganblake](https://github.com/morganblake) |
+- Alicia Swimmer
+- Sylwia Zieba
+- Keiko Nomura
+
 
 ---
 
