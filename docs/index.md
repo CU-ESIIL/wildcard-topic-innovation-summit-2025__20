@@ -83,9 +83,11 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ### Visuals that tell the story 📣
 ![Atlas cards for high-priority ideas](assets/dewey_burdock_hazard_matrix.png)
+
 *Visual 1.* Potential chemicals and their risk from Dewey Burdock Project.
 
 ![Storyboard for the wildcard showcase booth](assets/black_hills_mining.png)
+
 *Visual 2.* Black Hills Map and Active Mining Claims.
 
 ### Findings at a glance 📣
