@@ -1,5 +1,10 @@
 # He Sapa Makiyuta EA/EIS Study
 
+
+![Storyboard for the wildcard showcase booth](assets/black_hills_mining.png)
+
+*Visual 1.* Black Hills Map and Active Mining Claims.
+
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
 <!-- =========================================================
@@ -83,16 +88,14 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ### Visuals that tell the story 📣
 
-![Storyboard for the wildcard showcase booth](assets/black_hills_mining.png)
+![He Sapa Wild_Plant life Collage](https://github.com/user-attachments/assets/b8dac2a8-94c4-4294-befb-2670cc6cdac4)
 
-*Visual 1.* Black Hills Map and Active Mining Claims.
 
 ![Atlas cards for high-priority ideas](assets/dewey_burdock_hazard_matrix.png)
 
 *Visual 2.* Potential chemicals and their risk from Dewey Burdock Project.
 
 
-![He Sapa Wild_Plant life Collage](https://github.com/user-attachments/assets/b8dac2a8-94c4-4294-befb-2670cc6cdac4)
 
 
 ### Findings at a glance 📣
