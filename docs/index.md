@@ -15,13 +15,6 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ---
 
-## How to use this page (for the team)
-- **Edit this file:** `docs/index.md` → ✎ → change text → **Commit changes**.
-- **Add images:** upload to `docs/assets/` and reference like `assets/your_file.png`.
-- Keep **text short** and **visuals first**. Think “storyboard captions,” not full reports.
-
----
-
 ## Day 1 — Define & Explore
 ### Our product 📣
 - A dashboard/interactive search tool to more easily comb through 2,400 Environmental Impact Statement/Assessment documents from the US Forest Service, US NRC, BLM, etc.
@@ -44,9 +37,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ### Field notes / visuals
 ![Sticky-note clustering during kickoff](assets/whiteboard_projects.jpg)
-*Caption: Mapping questions from the first round of ideation to identify gaps in our wildcard atlas.*
-
-> **Different perspectives:** We debated whether to focus on one flagship prototype or map the broader landscape. The atlas approach won because it keeps doors open for other teams to plug in.
+*Caption: Storming on Day 2!.*
 
 ---
 
@@ -89,7 +80,6 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Final Share Out — Insights & Sharing
-*Focus: synthesize signals, highlight the top wildcard prototypes, outline hand-offs.*
 
 ![Team 20 with the first atlas draft](assets/team_photo.jpg)
 [Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/team_photo.jpg)
@@ -103,15 +93,8 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ![Atlas cards for high-priority ideas](assets/dewey_burdock_hazard_matrix.png)
 *Visual 1.* Potential chemicals and their risk from Dewey Burdock Project.
 
-![Storyboard for the wildcard showcase booth](assets/black_hills_mining.pdf)
+![Storyboard for the wildcard showcase booth](assets/black_hills_mining.png)
 *Visual 2.* Black Hills Map and Active Mining Claims.
-
-<iframe
-  title="Lightning talk recap"
-  width="100%" height="360"
-  src="https://www.youtube.com/embed/ASTGFZ0d6Ps"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
 
 ### What’s next? 📣
 - Finalize two-page atlas brief and share with summit organizers + CU leadership.
