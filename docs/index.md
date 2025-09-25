@@ -9,7 +9,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ![Team 20 maps wildcard prototypes on a whiteboard](assets/hero.jpg)
 [Raw photo location: hero.jpg](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/hero.jpg)
 
-**One sentence on impact:** In three days we surface wildcard ideas from across the Innovation Summit and translate them into prototypes, visuals, and next-step pilots that decision makers can act on.
+**One sentence on impact:** Tribal groups want to collaborate to create pragmatic tools to better understand information to protect their land, resources, and sovereignty.
 
 **[Draft project brief (PDF/A)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View shared code](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/code/prism_quicklook.py) · [Explore data](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/code/prism_quicklook.py)**
 
@@ -36,7 +36,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 
 ### Why this matters (the “upshot”) 📣
-- HeSapa is sacred to multiple tribes
+- HeSapa is sacred land to tribes and exposed to extractives activities 
 - The information will be accessible to non-technical audiences
 - Supports corporate accountability & transparency; environmental justice; and treaty rights around extractive activities in the HeSapa
 
@@ -54,33 +54,38 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Day 2 — Data & Methods
-*Focus: ingest submissions, prototype clustering + scoring, ship a first visual.*
+*Focus: tribal engagement to identify key indicators of concern, human-review of a typical EIS, metadata capture, intial steps of PDF extraction.*
 
 ### Data sources we’re exploring 📣
 - Public documents (PDFs) such as Environmental Impact Statements and Assessments from agencies such as Forest Service, EPA, US NRC, BLM.
 
-  ![First look at wildcard clustering output](assets/explore_data_plot.png)
+  ![First look at 600+ pages of a typical EIS](assets/dewey.png)
 [Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/explore_data_plot.png)
-  *Snapshot: BERTopic clusters highlighting recurring needs around monitoring, storytelling, and rapid response.*
+  *Snapshot: EIS for the Dewey-Burdock Project for In-Site Leach Uranium Milling Facilities.*
 
 ### Methods / technologies we’re testing 📣
-- Engaged with Lakota tribe to identify what matters most while parsing EIS/EA documents with the aim to document the schema in a simple table format to iteratively update:
-  **Example Fields:**
-    - Document title
-    - Agency names
-    - Company names (to ensure accountability)
-    - Geographical location (e.g., mention of states, cities, counties, reservations, or watersheds impacted)
-    - Byproducts from extractive activities (e.g., contaminants or residues such as chemicals, pollutants, radioactive elements)
-    - Mentions of treaty rights
-    - Impact on historical resources or cultural sites
-    - Impact on wildlife
-    - Impact on acquifer/groundwater, soil, air quality, plant life, and broader ecosystems
-- Use Python/R to extract relevant text from PDFs. For scanned PDFs, integrate OCR.
-- Retrieval and LLM workflow.
-- Provide a dashboard view for easy access.
+1. **Engagement**: Engaged with the tribal members to identify key indicators of concern and desired product output.
+2. **Centralize and Structure the Data**:
+   - PDF Extraction: Use Python/R to extract relevant test from PDFs.
+   - Metadata capture: For each EIS/EA document determine the most relevant information to capture:
+      - Document title
+      - Agency names
+      - Company name(s)
+      - Geographical project location/coordinates
+      - Type of extractive activity (e.g., mining, forestry)
+      - Byproducts from extractive activities (e.g., contaminants or residues)
+      - Key environmental impact categories 
+    - Spreadsheet/Database: Store this data in a structured format (CSV) so it can be filtered and searched.
+3. **Automate Key Information Extraction**:
+   - Create training set for any LLM models.
+   - Keyword Tagging: Use models to flag mentions of relevant fields.
+4. **Build a Long-Term Knowledge Sharing Base**
+   - Build a dashboard that can tribal leaders can use for more evidence-based decision-making.
+   - Overlay project sites (pending necessary geograhpical coordinate data) to visualize where activities intersect with culturally and ecologically sensitive areas.
 
 ### Challenges identified
 - Missing information: Certain projects were waived from creating EIS/EA for categorical exclusion.
+- If any PDFs are not machine-readable, integrate OCR.
 - Writing a generalized code that can effectively parse through PDFs of various formats to capture necessary data.
 - Does the language used in the metadata schema reflect tribal community values?
 
@@ -89,20 +94,6 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ![Early shortlist of wildcard candidates](assets/figure1.png)
 [Raw photo location: figure1.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/figure1.png)
 *Figure 1.* Top five clusters with novelty-impact positioning. We’re drafting spotlight cards for each one.
-
-#### Animated change (GIF)
-![Prototype score updates as new submissions arrive](assets/change.gif)
-[Raw photo location: change.gif](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/change.gif)
-*Figure 2.* Real-time scoring animation showing how priorities shift as late submissions land.
-
-#### Interactive map (iframe)
-<iframe
-  title="Participants by region"
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-105.35%2C39.90%2C-105.10%2C40.10&layer=mapnik&marker=40.000%2C-105.225"
-  width="100%" height="360" frameborder="0"></iframe>
-<p><a href="https://www.openstreetmap.org/?mlat=40.000&mlon=-105.225#map=12/40.0000/-105.2250">Open full map</a></p>
-
-> If an embed doesn’t load, place the map link directly underneath. We’ll swap in the live atlas view once we finalize hosting.
 
 ---
 
@@ -113,18 +104,18 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 [Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/team_photo.jpg)
 
 ### Findings at a glance 📣
-- **Three clusters account for 60% of wildcard excitement:** community sensing, generative storytelling, and rapid mutual-aid logistics.
-- **Low-effort data packaging unlocks action:** publishing CSV + thumbnails let three partner teams request follow-up conversations immediately.
-- **Summit alumni want a shared backlog:** half of survey respondents volunteered to champion at least one wildcard if we keep the atlas updated.
+- **Key priority areas for tribes:** Impact of extractive activites on historical resources, cultural sites, wildlife (bison), water bodies, soil, air, plant life, and broader ecosystems
+- **Test and refine workflow with a handful of human-reviewed EIS/EAs:** human review of PDFs compares to machine-generated PDF parse results for accuracy and quality.
+- **Deeper Knowledge of the Land:** Work with tribal partners to understand the language of the land.
 
 ### Visuals that tell the story 📣
-![Atlas cards for high-priority ideas](assets/fire_hull.png)
+![Atlas cards for high-priority ideas](assets/dewey_burdock_hazard_matrix.png)
 [Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Sample atlas layout showing priority ranking, owner, and next milestone.
+*Visual 1.* Potential chemicals and their risk from Dewey Burdock Project.
 
-![Storyboard for the wildcard showcase booth](assets/hull_panels.png)
+![Storyboard for the wildcard showcase booth](assets/bhcwa-map-jan-2025.pdf)
 [Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Draft storyboard for the expo booth we’ll host on Day 3 to gather more feedback.
+*Visual 2.* Black Hills Map and Active Mining Claims.
 
 ![Tracking prototype maturity over time](assets/main_result.png)
 [Raw photo location: main_result.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/main_result.png)
