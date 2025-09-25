@@ -90,6 +90,9 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 *Visual 2.* Black Hills Map and Active Mining Claims.
 
+![He Sapa Wild_Plant life Collage](https://github.com/user-attachments/assets/b8dac2a8-94c4-4294-befb-2670cc6cdac4)
+
+
 ### Findings at a glance 📣
 - **Key priority areas for tribes:** Impact of extractive activites on historical resources, cultural sites, wildlife (bison), water bodies, soil, air, plant life, and broader ecosystems
 - **Test and refine workflow with a handful of human-reviewed EIS/EAs:** human review of PDFs compares to machine-generated PDF parse results for accuracy and quality.
