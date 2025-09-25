@@ -98,9 +98,8 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 
 ### What’s next? 📣
-- Finalize two-page atlas brief and share with summit organizers + CU leadership.
-- Host a 45-minute virtual ideation to assign owners for the top three wildcard prototypes.
-- Coordinate with CyVerse staff to pilot a persistent “Wildcard backlog” workspace for the 2025 cohort.
+- Refine the PDF search tools, LLM, etc.
+- Broader group: ESIIL Working Group & CU Boulder Research & Innovation Seed Grant Program
 
 ---
 
