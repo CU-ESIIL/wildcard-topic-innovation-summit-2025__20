@@ -45,8 +45,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ### Inspirations (papers, datasets, tools)
 
 ### Field notes / visuals
-![Sticky-note clustering during kickoff](assets/day1_whiteboard.jpg)
-[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/day1_whiteboard.jpg)
+![Sticky-note clustering during kickoff](assets/whiteboard_projects.jpg)
 *Caption: Mapping questions from the first round of ideation to identify gaps in our wildcard atlas.*
 
 > **Different perspectives:** We debated whether to focus on one flagship prototype or map the broader landscape. The atlas approach won because it keeps doors open for other teams to plug in.
@@ -89,12 +88,6 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 - Writing a generalized code that can effectively parse through PDFs of various formats to capture necessary data.
 - Does the language used in the metadata schema reflect tribal community values?
 
-### Visuals
-#### Static figure
-![Early shortlist of wildcard candidates](assets/figure1.png)
-[Raw photo location: figure1.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/figure1.png)
-*Figure 1.* Top five clusters with novelty-impact positioning. We’re drafting spotlight cards for each one.
-
 ---
 
 ## Final Share Out — Insights & Sharing
@@ -110,16 +103,10 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ### Visuals that tell the story 📣
 ![Atlas cards for high-priority ideas](assets/dewey_burdock_hazard_matrix.png)
-[Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/fire_hull.png)
 *Visual 1.* Potential chemicals and their risk from Dewey Burdock Project.
 
-![Storyboard for the wildcard showcase booth](assets/bhcwa-map-jan-2025.pdf)
-[Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/hull_panels.png)
+![Storyboard for the wildcard showcase booth](assets/black_hills_mining.pdf)
 *Visual 2.* Black Hills Map and Active Mining Claims.
-
-![Tracking prototype maturity over time](assets/main_result.png)
-[Raw photo location: main_result.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/main_result.png)
-*Visual 3.* Funnel view of idea maturity; highlights which prototypes need technical assistance versus storytelling.
 
 <iframe
   title="Lightning talk recap"
