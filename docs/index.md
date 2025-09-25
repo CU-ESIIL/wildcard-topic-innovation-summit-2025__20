@@ -56,6 +56,11 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 [Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/explore_data_plot.png)
   *Snapshot: EIS for the Dewey-Burdock Project for In-Site Leach Uranium Milling Facilities.*
 
+![Atlas cards for high-priority ideas](assets/dewey_burdock_hazard_matrix.png)
+
+*Visual 2.* Potential chemicals and their risk from Dewey Burdock Project.
+
+
 ### Methods / technologies we’re testing 📣
 1. **Engagement**: Engaged with the tribal members to identify key indicators of concern and desired product output.
 2. **Centralize and Structure the Data**:
@@ -89,12 +94,6 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ### Visuals that tell the story 📣
 
 ![He Sapa Wild_Plant life Collage](https://github.com/user-attachments/assets/b8dac2a8-94c4-4294-befb-2670cc6cdac4)
-
-
-![Atlas cards for high-priority ideas](assets/dewey_burdock_hazard_matrix.png)
-
-*Visual 2.* Potential chemicals and their risk from Dewey Burdock Project.
-
 
 
 
