@@ -5,9 +5,7 @@
 <!-- =========================================================
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
-
-![Team 20 maps wildcard prototypes on a whiteboard](assets/hero.jpg)
-[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/hero.jpg)
+<img width="981" height="764" alt="image" src="https://github.com/user-attachments/assets/adf90a63-f0b1-478b-b70a-c608764e3119" />
 
 **One sentence on impact:** Tribal groups want to collaborate to create pragmatic tools to better understand information to protect their land, resources, and sovereignty.
 
@@ -150,10 +148,10 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ## Storage
 
 **Code**
-Keep shared scripts, notebooks, and utilities in the [`code/`](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/tree/main/code) directory. Document how to run them in a README or within the files so teammates and visitors can reproduce your workflow.
+
 
 **Documentation**
-Use the [`docs/`](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/tree/main/docs) folder to publish project updates on this site. Longer internal notes can live in [`documentation/`](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/tree/main/documentation); summarize key takeaways here so the public story stays current.
+
 
 ---
 
