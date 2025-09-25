@@ -81,20 +81,19 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ## Final Share Out — Insights & Sharing
 
-![Team 20 with the first atlas draft](assets/team_photo.jpg)
-[Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/blob/main/docs/assets/team_photo.jpg)
-
-### Findings at a glance 📣
-- **Key priority areas for tribes:** Impact of extractive activites on historical resources, cultural sites, wildlife (bison), water bodies, soil, air, plant life, and broader ecosystems
-- **Test and refine workflow with a handful of human-reviewed EIS/EAs:** human review of PDFs compares to machine-generated PDF parse results for accuracy and quality.
-- **Deeper Knowledge of the Land:** Work with tribal partners to understand the language of the land.
-
 ### Visuals that tell the story 📣
 ![Atlas cards for high-priority ideas](assets/dewey_burdock_hazard_matrix.png)
 *Visual 1.* Potential chemicals and their risk from Dewey Burdock Project.
 
 ![Storyboard for the wildcard showcase booth](assets/black_hills_mining.png)
 *Visual 2.* Black Hills Map and Active Mining Claims.
+
+### Findings at a glance 📣
+- **Key priority areas for tribes:** Impact of extractive activites on historical resources, cultural sites, wildlife (bison), water bodies, soil, air, plant life, and broader ecosystems
+- **Test and refine workflow with a handful of human-reviewed EIS/EAs:** human review of PDFs compares to machine-generated PDF parse results for accuracy and quality.
+- **Deeper Knowledge of the Land:** Work with tribal partners to understand the language of the land.
+
+
 
 ### What’s next? 📣
 - Finalize two-page atlas brief and share with summit organizers + CU leadership.
