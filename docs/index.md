@@ -155,7 +155,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ## Cite & reuse
 If you use these materials, please cite:
 
-> Wildcard Topic Innovation Summit Team 20. (2025). *Wildcard Topic Innovation Summit 2025 Repository*. https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20
+> He Sapa Makiyuta EA/EIS Study. (2025). *He Sapa Makiyuta EA/EIS Study Innovation Summit 2025 Repository*. https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20
 
 License: CC-BY-4.0 unless noted. See dataset licenses on the **[Data](data.md)** page.
 
