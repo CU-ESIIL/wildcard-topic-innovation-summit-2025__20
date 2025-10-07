@@ -3,7 +3,7 @@
 
 ![Storyboard for the wildcard showcase booth](assets/black_hills_mining.png)
 
-*Visual 1.* Black Hills Map and Active Mining Claims.
+*Visual 1.* Black Hills Map and Active Mining Claims. (Black Hills Clean Water Alliance & Mato Ohitika Analytics LLC)
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
@@ -95,10 +95,17 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ![He Sapa Wild_Plant life Collage](https://github.com/user-attachments/assets/b8dac2a8-94c4-4294-befb-2670cc6cdac4)
 
+**He Sapa Relatives:**
+- 🌎 Row 1 L-R: Psipiza (Prairie Dog), Ojinjintka Hu (Prairie Rose), Tatoka (Antelope)
+- 🌎 Row 2 L-R: Icahpe Hu (Purple Coneflower), Wahpe Hinsma (Mullein)
+- 🌎 Row 3 L-R: Canpa (Chokecherry Bush), Unkcekhiha (Black-billed Magpie), Pejihota (Sage)
 
+<img src="https://raw.githubusercontent.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__20/c5639ff9c2979e22b9b6cc4e78c87f45834795d1/docs/assets/bison.jpg" alt="Bison" width="1500">
+
+**Tatanka (Buffalo)**
 
 ### Findings at a glance 📣
-- **Key priority areas for tribes:** Impact of extractive activites on historical resources, cultural sites, wildlife (bison), water bodies, soil, air, plant life, and broader ecosystems
+- **Key priority areas for tribes:** Impact of extractive activities on historical resources, cultural sites, wildlife (bison), water bodies, soil, air, plant life, and broader ecosystems
 - **Test and refine workflow with a handful of human-reviewed EIS/EAs:** human review of PDFs compares to machine-generated PDF parse results for accuracy and quality.
 - **Deeper Knowledge of the Land:** Work with tribal partners to understand the language of the land.
 
